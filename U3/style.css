@@ -1,0 +1,105 @@
+
+body {
+    
+    font-family: "Lato", sans-serif;
+        background-color: #ABB7D0;
+
+}
+
+.sub-container {
+        background-color: #131A2D;
+}
+
+#header {
+    border-bottom: 4px solid #D0C4AB;
+}
+
+#logo img {
+    height: 140px;
+    width: 140px;
+}
+
+#name {
+    font-size: 60px;
+    font-weight: 900;
+}
+
+#role {
+     font-size: 30px;
+    font-weight: 300;
+}
+
+#spacing {
+    padding-top: 10px;
+}
+
+#big-img {
+    padding-top: 25px;
+    padding-bottom: 40px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#big-img img {
+    height: 250px;
+    width: 100%;
+}
+
+#fw {
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#fw h2 {
+    font-size: 35px;
+}
+
+#header-text {
+    text-align: right;
+    color: #131A2D;
+}
+
+
+#works {
+    color: #D0C4AB;
+}
+
+#works img {
+    height: 350px;
+}
+
+.mb {
+    background-color:#131A2D;
+}
+
+.w-left {
+    text-align: center;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+
+.w-right {
+    text-align: center;
+    padding-bottom: 10px;
+    padding-right: 30px;
+}
+
+#works img {
+    width: 100%;
+    height: 250px;
+}
+
+
+.link {
+    font-size: 20px;
+    font-weight: 100;
+    text-decoration: none;
+    color: #D0C4AB;
+    text-align: center;
+}
+
+.project h1 {
+    font-weight: 300;
+    font-size: 50px;
+}
